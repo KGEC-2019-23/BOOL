@@ -1,5 +1,5 @@
 ﻿{
-	"prefix": "b_",
+	"prefix": "b/",
 	"token": "NzAyNzkxNzE2MTg4NzE3MDY2.XqPmXg.LsDsrBA-HuspB7r6OspIN16pJ1w",
 	"passwords_array": ["please", "dont", "hack", "me"],
 	"user1" :
@@ -9,30 +9,30 @@
 		{
 			"username": "Dante",
 			"Name": "Anand Raj Murmu",
-			"Age": "17",
-			"From": "Kolkata",
+			"Age": "19",
+			"From": "Kanchrapara",
 			"College": "KGEC",
-			"Department": "ECE",
-			"Dream": "To insert pixels in the air"
+			"Department": "CSE",
+			"Dream": "I don't dream, I have goals"
 		},
 		"contact":
 		{
-			"email": "coding.ayush@gmail.com",
-			"phone": "8902094849"
+			"email": "rajmurmu638@gmail.com",
+			"phone": "7980965323"
 		},		
-		"interest": ["Competitive Programming", " Machine Learning", " Neural Networks", " Augmented Reality"],
+		"interest": ["Web Development", " App Development", " Graphic Design", " Machine Learning", " Cyber Security", "IoT", " Augmented Reality"],
 		"profiles":
 		{
-			"github" : "deathaught-github",
-			"linkedIn": "deathnaught",
-			"stopstalk": "deathnaught_",
-			"stackOverflow" : "12168012/ayush-singh"
+			"github" : "AnandRajMurmu",
+			"linkedIn": "anand-raj-murmu=74a544154",
+			"stopstalk": "anandraj",
+			"stackOverflow" : "13404345/anand-raj-murmu"
 		},
 		"socials":
 		{
-			"facebook": "N.A.",
-			"instagram": "N.A.",
-			"twitter": "deathnaught_"
+			"facebook": "anandraj.murmu.796",
+			"instagram": "anandraj2000",
+			"twitter": "AnandRajMurmu"
 		}
 	},
 	"user2" :
@@ -351,18 +351,18 @@
 		{
 			"username": "Ayush Singh",
 			"Name": "Ayush Singh",
-			"Age": "N.A.",
-			"From": "N.A.",
+			"Age": "20",
+			"From": "Howrah",
 			"College": "KGEC",
-			"Department": "N.A.",
-			"Dream": "N.A."
+			"Department": "CSE",
+			"Dream": "To be a top rated coder"
 		},
 		"contact":
 		{
-			"email": "N.A.",
-			"phone": "N.A."
+			"email": "singhayush049@gmail.com",
+			"phone": "8240314814"
 		},		
-		"interest": ["N.A."],
+		"interest": ["Web Development", " Competitive Programmer", " Machine Learning", " App Development"],
 		"tech": ["N.A."],
 		"profiles":
 		{
@@ -385,18 +385,18 @@
 		{
 			"username": "bikram01234",
 			"Name": "Bikram Kumar Jha",
-			"Age": "N.A.",
-			"From": "N.A.",
+			"Age": "19",
+			"From": "Shrirampore",
 			"College": "KGEC",
-			"Department": "N.A.",
-			"Dream": "N.A."
+			"Department": "CSE",
+			"Dream": "Full Stack Web Developer"
 		},
 		"contact":
 		{
-			"email": "N.A.",
-			"phone": "N.A."
+			"email": "bikram2001jha@gmail.com",
+			"phone": "6290898401"
 		},		
-		"interest": ["N.A."],
+		"interest": ["Web Development", " App Development", " Competitive Programming", " Machine Learning", " Data Science", " Cybersecurity"],
 		"tech": ["N.A."],
 		"profiles":
 		{
@@ -797,31 +797,31 @@
 		{
 			"username": "baral_Abhi",
 			"Name": "Abhishek Baral",
-			"Age": "N.A.",
-			"From": "N.A.",
+			"Age": "19",
+			"From": "Asansol",
 			"College": "KGEC",
-			"Department": "N.A.",
-			"Dream": "N.A."
+			"Department": "CSE",
+			"Dream": "To be a successful person and be financially independent and help others"
 		},
 		"contact":
 		{
-			"email": "N.A.",
-			"phone": "N.A."
+			"email": "baralabhishek538@gmail.com",
+			"phone": "8250546861"
 		},		
-		"interest": ["N.A."],
+		"interest": ["Web Development", " Competitive Programming", " Graphic Design", " App Development", " Data Science", " Digital Marketing"],
 		"tech": ["N.A."],
 		"profiles":
 		{
-			"github" : "N.A.",
-			"linkedIn": "N.A.",
-			"stopstalk": "N.A.",
-			"stackOverflow" : "N.A."
+			"github" : "baralabhishek1",
+			"linkedIn": "abhishek-baral-246368191",
+			"stopstalk": "baralabhishek",
+			"stackOverflow" : "18401228/abhishek-baral"
 		},
 		"socials":
 		{
-			"facebook": "N.A.",
-			"instagram": "N.A.",
-			"twitter": "N.A."
+			"facebook": "abhishek.baral.5496",
+			"instagram": "baralabhishek2",
+			"twitter": "baralabhishek2"
 		}
 	},
 	"user25" :
@@ -831,29 +831,29 @@
 		{
 			"username": "rajonya123",
 			"Name": "Rajonya Mondal",
-			"Age": "N.A.",
-			"From": "N.A.",
+			"Age": "18",
+			"From": "Khardaha",
 			"College": "KGEC",
-			"Department": "N.A.",
-			"Dream": "N.A."
+			"Department": "CSE",
+			"Dream": "To be a good coder"
 		},
 		"contact":
 		{
-			"email": "N.A.",
-			"phone": "N.A."
+			"email": "rajonyarajjo@gmail.com",
+			"phone": "8337037360"
 		},		
-		"interest": ["N.A."],
+		"interest": ["Web Development", " Competitive Programming", " Machine Learning", " App Development"],
 		"tech": ["N.A."],
 		"profiles":
 		{
 			"github" : "N.A.",
-			"linkedIn": "N.A.",
+			"linkedIn": "rajonya-mondal-528368191",
 			"stopstalk": "N.A.",
 			"stackOverflow" : "N.A."
 		},
 		"socials":
 		{
-			"facebook": "N.A.",
+			"facebook": "rajonya.mondal.1",
 			"instagram": "N.A.",
 			"twitter": "N.A."
 		}
@@ -938,7 +938,7 @@
 			"From": "Kolkata",
 			"College": "KGEC",
 			"Department": "EE",
-			"Dream": "Shine and take kiddo along with me"
+			"Dream": "Shine"
 		},
 		"contact":
 		{
@@ -960,5 +960,39 @@
 			"instagram": "N.A.",
 			"twitter": "N.A."
 		}
-	}
+	},
+	"user29" :
+	{
+		"username": "Prithwiraj Mitra",
+		"about":
+		{
+			"username": "Prithwiraj Mitra",
+			"Name": "Prithwiraj Mitra",
+			"Age": "19",
+			"From": "Kolkata",
+			"College": "KGEC",
+			"Department": "IT",
+			"Dream": "I am a machine learning enthusiast and wish to learn more about this gigantic topicthereby contributing some real life project"
+		},
+		"contact":
+		{
+			"email": "prithwirajmitra15@gmail.com",
+			"phone": "9330890146"
+		},		
+		"interest": ["Machine Learning", " NLP", " Data Science", " Neural Networks"],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "InvincibleNobita",
+			"linkedIn": "prithwiraj-mitra-830350192",
+			"stopstalk": "",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "N.A.",
+			"twitter": "N.A."
+		}
+}
 }
