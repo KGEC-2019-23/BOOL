@@ -1,0 +1,964 @@
+﻿{
+	"prefix": "b_",
+	"token": "NzAyNzkxNzE2MTg4NzE3MDY2.XqPmXg.LsDsrBA-HuspB7r6OspIN16pJ1w",
+	"passwords_array": ["please", "dont", "hack", "me"],
+	"user1" :
+	{
+		"username": "Dante",
+		"about":
+		{
+			"username": "Dante",
+			"Name": "Anand Raj Murmu",
+			"Age": "17",
+			"From": "Kolkata",
+			"College": "KGEC",
+			"Department": "ECE",
+			"Dream": "To insert pixels in the air"
+		},
+		"contact":
+		{
+			"email": "coding.ayush@gmail.com",
+			"phone": "8902094849"
+		},		
+		"interest": ["Competitive Programming", " Machine Learning", " Neural Networks", " Augmented Reality"],
+		"profiles":
+		{
+			"github" : "deathaught-github",
+			"linkedIn": "deathnaught",
+			"stopstalk": "deathnaught_",
+			"stackOverflow" : "12168012/ayush-singh"
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "N.A.",
+			"twitter": "deathnaught_"
+		}
+	},
+	"user2" :
+	{
+		"username": "AnonymousSasha",
+		"about":
+		{
+			"username": "AnonymousSasha",
+			"Name": "Ayush Singh",
+			"Age": "17",
+			"From": "Kolkata",
+			"College": "KGEC",
+			"Department": "ECE",
+			"Dream": "To insert pixels in the air"
+		},
+		"contact":
+		{
+			"email": "coding.ayush@gmail.com",
+			"phone": "8902094849"
+		},		
+		"interest": ["Competitive Programming", " Machine Learning", " Neural Networks", " Augmented Reality"],
+		"tech": ["Java", " C\\C++", " Python", " Kotlin", " JavaScript", " HTML5", " CSS", " Git", " Markdown", " Google Cloud", " DialogFlow"],
+		"profiles":
+		{
+			"github" : "deathaught-github",
+			"linkedIn": "deathnaught",
+			"stopstalk": "deathnaught_",
+			"stackOverflow" : "12168012/ayush-singh"
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "N.A.",
+			"twitter": "deathnaught_"
+		}
+	},
+	"user3" :
+	{
+		"username": "paracetamol650",
+		"about":
+		{
+			"username": "paracetamol650",
+			"Name": "Aryan Barnwal",
+			"Age": "19",
+			"From": "Barrackpore",
+			"College": "KGEC",
+			"Department": "IT",
+			"Dream": "To be one of the best app developers and to make it big"
+		},
+		"card": "https://www.jotform.com/pdf-view/fd2de36110",
+		"contact":
+		{
+			"email": "aryanbarnwal007@gmail.com",
+			"phone": "6290779826"
+		},		
+		"interest": ["App Development", " Machine Learning", " Data Science", " Neural Network", " Competitive Programming"],
+		"profiles":
+		{
+			"github" : "Aryan6290",
+			"linkedIn": "aryan-barnwal-932482193",
+			"stopstalk": "paracetamol650",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "arya.barnwal.10",
+			"instagram": "N.A.",
+			"twitter": "N.A."
+		}
+	},	
+	"user4" :
+	{
+		"username": "mayukhsen1301",
+		"about":
+		{
+			"username": "mayukhsen1301",
+			"Name": "Mayukh Sen",
+			"Age": "19",
+			"From": "Kolkata",
+			"College": "KGEC",
+			"Department": "ECE",
+			"Dream": "Make myself stand out from others. Current aim is GRE and to have a stellar career"
+		},
+		"contact":
+		{
+			"email": "mayukh.sen13@gmail.com",
+			"phone": "9330310093"
+		},		
+		"interest": ["Web Development", " Machine Learning", " Competitive Programming", " Google Cloud", " Data Science", " Neural Networks", "IoT"],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "mayukhsen13",
+			"linkedIn": "mayukhsen1301",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "mayukhsen1301",
+			"instagram": "mayukh.shane13_007",
+			"twitter": "manyukh_sen"
+		}
+	},
+	"user5" :
+	{
+		"username": "Aarati Shah",
+		"about":
+		{
+			"username": "Aarati Shah",
+			"Name": "Aarati Shah",
+			"Age": "19",
+			"From": "Asansol",
+			"College": "KGEC",
+			"Department": "CSE",
+			"Dream": "Flow with the air!"
+		},
+		
+		"contact":
+		{
+			"email": "aaratishah10@gmail.com",
+			"phone": "9166356094"
+		},		
+		"interest": ["Web Development", " App Development", " Graphic-Design", " Competitive Programming"],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "N.A.",
+			"linkedIn": "aarati-shah-a49430191",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "aarati.shah.7528",
+			"instagram": "N.A.",
+			"twitter": "N.A."
+		}
+	},
+	"user6" :
+	{
+		"username": "alquama00s",
+		"about":
+		{
+			"username": "alquama00s",
+			"Name": "Alquama Salim",
+			"Age": "N.A.",
+			"From": "N.A.",
+			"College": "KGEC",
+			"Department": "N.A.",
+			"Dream": "N.A."
+		},
+		"contact":
+		{
+			"email": "N.A.",
+			"phone": "N.A."
+		},		
+		"interest": ["N.A."],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "N.A.",
+			"linkedIn": "N.A.",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "N.A.",
+			"twitter": "N.A."
+		}
+	},	
+	"user7" :
+	{
+		"username": "Aniket kumar",
+		"about":
+		{
+			"username": "Aniket Kumar",
+			"Name": "Aniket Kumar",
+			"Age": "19",
+			"From": "Kalyani",
+			"College": "KGEC",
+			"Department": "IT",
+			"Dream": "Becoming a good software developer, businessman and a musician that this world will remember!"
+		},
+		"card": "https://www.jotform.com/pdf-view/2e08a887de",
+		"contact":
+		{
+			"email": "mynameiszimy@gmail.com",
+			"phone": "6290814350"
+		},		
+		"interest": ["Web Development", " App Development", " Competitive Programming", " Machine Learning"],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "N.A.",
+			"linkedIn": "N.A.",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "N.A.",
+			"twitter": "N.A."
+		}
+	},
+	"user8" :
+	{
+		"username": "Ankit Banerjee",
+		"about":
+		{
+			"username": "Ankit Banerjee",
+			"Name": "Ankit Banerjee",
+			"Age": "N.A.",
+			"From": "N.A.",
+			"College": "KGEC",
+			"Department": "N.A.",
+			"Dream": "N.A."
+		},
+		"contact":
+		{
+			"email": "N.A.",
+			"phone": "N.A."
+		},		
+		"interest": ["N.A."],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "N.A.",
+			"linkedIn": "N.A.",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "N.A.",
+			"twitter": "N.A."
+		}
+	},
+	"user9" :
+	{
+		"username": "Anubhav",
+		"about":
+		{
+			"username": "Anubhav",
+			"Name": "Anubhav Dutta",
+			"Age": "19",
+			"From": "Kolkata",
+			"College": "KGEC",
+			"Department": "ECE",
+			"Dream": "Building Domestice AI"
+		},
+		"card": "https://www.jotform.com/pdf-view/75acd543de",
+		"contact":
+		{
+			"email": "anubhavd666@gmail.com",
+			"phone": "9748959439"
+		},		
+		"interest": ["Web Development", " App Development", " Competitive Programming"," Data Science", " IoT", " Graphic-Design", " Neural Networks", " IoT", " Embedded System"],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "anubhavd666",
+			"linkedIn": "anubhav-dutta-408368191",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "13368039/anubis"
+		},
+		"socials":
+		{
+			"facebook": "anubhav.dutta.792",
+			"instagram": "_haineki_/",
+			"twitter": "AnubhavDutta6"
+		}
+	},	
+	"user10" :
+	{
+		"username": "ArkaDutta007",
+		"about":
+		{
+			"username": "ArkaDutta007",
+			"Name": "Arka Dutta",
+			"Age": "18+",
+			"From": "Siuri, Birbhum",
+			"College": "KGEC",
+			"Department": "CSE",
+			"Dream": "To make irrational world Logical, Scientific and Mathematically pure"
+		},
+		"contact":
+		{
+			"email": "arkadutta.cg@gmail.com",
+			"phone": "6294861151"
+		},		
+		"interests": [ "Machine Learning"," Data SCience", " App Development", " Neural Networks", "Language Processing", " Cyber security"],
+		"profiles":
+		{
+			"github" : "N.A.",
+			"linkedIn": "arka-dutta-868993192",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "arkadutta007",
+			"instagram": "arkadutta007",
+			"twitter": "arkadutta007"
+		}
+	},
+	
+	"user11" :
+	{
+		"username": "Ayush Singh",
+		"about":
+		{
+			"username": "Ayush Singh",
+			"Name": "Ayush Singh",
+			"Age": "N.A.",
+			"From": "N.A.",
+			"College": "KGEC",
+			"Department": "N.A.",
+			"Dream": "N.A."
+		},
+		"contact":
+		{
+			"email": "N.A.",
+			"phone": "N.A."
+		},		
+		"interest": ["N.A."],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "N.A.",
+			"linkedIn": "N.A.",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "N.A.",
+			"twitter": "N.A."
+		}
+	},
+	"user12" :
+	{
+		"username": "bikram01234",
+		"about":
+		{
+			"username": "bikram01234",
+			"Name": "Bikram Kumar Jha",
+			"Age": "N.A.",
+			"From": "N.A.",
+			"College": "KGEC",
+			"Department": "N.A.",
+			"Dream": "N.A."
+		},
+		"contact":
+		{
+			"email": "N.A.",
+			"phone": "N.A."
+		},		
+		"interest": ["N.A."],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "N.A.",
+			"linkedIn": "N.A.",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "N.A.",
+			"twitter": "N.A."
+		}
+	},	
+	"user13" :
+	{
+		"username": "pirates",
+		"about":
+		{
+			"username": "pirates",
+			"Name": "Moyukh Sarkar",
+			"Age": "19",
+			"From": "Malda",
+			"College": "KGEC",
+			"Department": "IT",
+			"Dream": "To become a successful developer and to explore all domains deeply."
+		},
+		"contact":
+		{
+			"email": "moyukh00145@gmail.com",
+			"phone": "8436920854"
+		},		
+		"interest": ["Web Development", " App Development", " Competitive Programming", " Cyber Security", " Machine Learning", " Neural Networks"],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "moyukh-sarkar-508367191",
+			"linkedIn": "moyukh00145",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "N.A.",
+			"twitter": "N.A."
+		}
+	},
+	"user14" :
+	{
+		"username": "Crosinbis",
+		"about":
+		{
+			"username": "Crosinbis",
+			"Name": "Bishal Sarkar",
+			"Age": "19",
+			"From": "Asansol",
+			"College": "KGEC",
+			"Department": "IT",
+			"Dream": "To become full stack developer and also to learn app development."
+		},
+		"card": "https://www.jotform.com/pdf-view/c96376d9f3",
+		"contact":
+		{
+			"email": "avikboshalsarkar@gmail.com",
+			"phone": "7908683953"
+		},		
+		"interest": ["Full Stack", " Web Development", " App Development"],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "N.A.",
+			"linkedIn": "N.A.",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "bishalsarkar546",
+			"twitter": "N.A."
+		}
+	},
+	"user15" :
+	{
+		"username": "shivam",
+		"about":
+		{
+			"username": "shivam",
+			"Name": "Shivam Jaiswal",
+			"Age": "N.A.",
+			"From": "N.A.",
+			"College": "KGEC",
+			"Department": "N.A.",
+			"Dream": "N.A."
+		},
+		"contact":
+		{
+			"email": "N.A.",
+			"phone": "N.A."
+		},		
+		"interest": ["N.A."],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "N.A.",
+			"linkedIn": "N.A.",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "N.A.",
+			"twitter": "N.A."
+		}
+	},	
+	"user16" :
+	{
+		"username": "sourav n.",
+		"about":
+		{
+			"username": "sourav n",
+			"Name": "Sourav Naskar",
+			"Age": "19",
+			"From": "Kolkata",
+			"College": "KGEC",
+			"Department": "CSE",
+			"Dream": "To be more creative and productive"
+		},
+		"contact":
+		{
+			"email": "naskar.sourav818@gmail.com",
+			"phone": "9123313814"
+		},		
+		"interest": ["Web Development", " App Development", " Competitive Programming", " Data Science", " Machine Learning", " Cyber Security"],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "naskar156",
+			"linkedIn": "sourav-naskar-15439a191",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "N.A.",
+			"twitter": "N.A."
+		}
+	},
+	"user17" :
+	{
+		"username": "debadree25",
+		"about":
+		{
+			"username": "debadree25",
+			"Name": "Debadree Chatterjee",
+			"Age": "19",
+			"From": "Barrackpore",
+			"College": "KGEC",
+			"Department": "IT",
+			"Dream": "Attain mental peace"
+		},
+		"card": "https://www.jotform.com/pdf-view/5b5b7904f5",
+		"contact":
+		{
+			"email": "debadree333@gmail.com",
+			"phone": "9883362850"
+		},		
+		"interest": ["Web Development", " App Development", "Competitive Programming", " Machine Learning", " Data Science", " Neural Network"],
+		"tech": ["HTML5", "CSS3", "Java", "JavaScript", "C\\C++", "Python", "Dart", "Git"],
+		"profiles":
+		{
+			"github" : "debadree25",
+			"linkedIn": "debadree-chatterjee-684390191",
+			"stopstalk": "debadree25",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "N.A.",
+			"twitter": "N.A."
+		}
+	},
+	"user18" :
+	{
+		"username": "Mainak Nandi",
+		"about":
+		{
+			"username": "Mainak Nandi",
+			"Name": "Mainak Nandi",
+			"Age": "19",
+			"From": "Kolkata",
+			"College": "KGEC",
+			"Department": "EE",
+			"Dream": "Mastering at Full Stack Web development and Machine Learning"
+		},
+		"card": "https://www.jotform.com/pdf-view/6d95983f39",
+		"contact":
+		{
+			"email": "mainaknandi2000@gmail.com",
+			"phone": "8902572861"
+		},		
+		"interest": ["Web Development", " Competitive Programming", " Machine Learning", " Data Science", " Neural Network", " Cyber Security", " Block Chain", " IoT"],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "MainakNandi",
+			"linkedIn": "mainak-nandi-46b451191",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "papai.nandi.5437",
+			"instagram": "N.A.",
+			"twitter": "MainakNandi12"
+		}
+	},	
+	"user19" :
+	{
+		"username": "Hsaka",
+		"about":
+		{
+			"username": "Hsaka",
+			"Name": "Akash Das",
+			"Age": "N.A.",
+			"From": "N.A.",
+			"College": "KGEC",
+			"Department": "N.A.",
+			"Dream": "N.A."
+		},
+		"contact":
+		{
+			"email": "N.A.",
+			"phone": "N.A."
+		},		
+		"interest": ["N.A."],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "N.A.",
+			"linkedIn": "N.A.",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "N.A.",
+			"twitter": "N.A."
+		}
+	},
+	"user20" :
+	{
+		"username": "Abhinaba Das",
+		"about":
+		{
+			"username": "Abhinaba Das",
+			"Name": "Abhinaba Das",
+			"Age": "N.A.",
+			"From": "N.A.",
+			"College": "KGEC",
+			"Department": "N.A.",
+			"Dream": "N.A."
+		},
+		"contact":
+		{
+			"email": "N.A.",
+			"phone": "N.A."
+		},		
+		"interest": ["N.A."],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "N.A.",
+			"linkedIn": "N.A.",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "N.A.",
+			"twitter": "N.A."
+		}
+	},
+	"user21" :
+	{
+		"username": "Anik Saha",
+		"about":
+		{
+			"username": "Anik Saha",
+			"Name": "Anik Saha",
+			"Age": "19",
+			"From": "Kolkata",
+			"College": "KGEC",
+			"Department": "CSE",
+			"Dream": "Just to do something that keeps me and the people around me happy."
+		},
+		"card": "https://www.jotform.com/pdf-view/9746713cf4",
+		"contact":
+		{
+			"email": "myselfaniksaha@gmail.com",
+			"phone": "7980016667"
+		},		
+		"interest": ["Web Development", " App Development", " Competitive Programming", " Graphic Design", " Machine Learning", " Data Science", " Neural Networks", " IoT"],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "N.A.",
+			"linkedIn": "anik-saha-0280b1192",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "N.A.",
+			"twitter": "N.A."
+		}
+	},
+	"user22" :
+	{
+		"username": "thisisesha",
+		"about":
+		{
+			"username": "thisisesha",
+			"Name": "Shraya Mutsuddi",
+			"Age": "N.A.",
+			"From": "N.A.",
+			"College": "KGEC",
+			"Department": "N.A.",
+			"Dream": "N.A."
+		},
+		"contact":
+		{
+			"email": "N.A.",
+			"phone": "N.A."
+		},		
+		"interest": ["N.A."],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "N.A.",
+			"linkedIn": "N.A.",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "N.A.",
+			"twitter": "N.A."
+		}
+	},
+	"user23" :
+	{
+		"username": "Sarthack",
+		"about":
+		{
+			"username": "Sarthack",
+			"Name": "Sarthak Chatterjee",
+			"Age": "N.A.",
+			"From": "N.A.",
+			"College": "KGEC",
+			"Department": "N.A.",
+			"Dream": "N.A."
+		},
+		"contact":
+		{
+			"email": "N.A.",
+			"phone": "N.A."
+		},		
+		"interest": ["N.A."],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "N.A.",
+			"linkedIn": "N.A.",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "N.A.",
+			"twitter": "N.A."
+		}
+	},
+	"user24" :
+	{
+		"username": "baral_Abhi",
+		"about":
+		{
+			"username": "baral_Abhi",
+			"Name": "Abhishek Baral",
+			"Age": "N.A.",
+			"From": "N.A.",
+			"College": "KGEC",
+			"Department": "N.A.",
+			"Dream": "N.A."
+		},
+		"contact":
+		{
+			"email": "N.A.",
+			"phone": "N.A."
+		},		
+		"interest": ["N.A."],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "N.A.",
+			"linkedIn": "N.A.",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "N.A.",
+			"twitter": "N.A."
+		}
+	},
+	"user25" :
+	{
+		"username": "rajonya123",
+		"about":
+		{
+			"username": "rajonya123",
+			"Name": "Rajonya Mondal",
+			"Age": "N.A.",
+			"From": "N.A.",
+			"College": "KGEC",
+			"Department": "N.A.",
+			"Dream": "N.A."
+		},
+		"contact":
+		{
+			"email": "N.A.",
+			"phone": "N.A."
+		},		
+		"interest": ["N.A."],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "N.A.",
+			"linkedIn": "N.A.",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "N.A.",
+			"twitter": "N.A."
+		}
+	},
+	"user26" :
+	{
+		"username": "Abhrajyoti",
+		"about":
+		{
+			"username": "Abhrajyoti",
+			"Name": "Abhrajyoti Kundu",
+			"Age": "20",
+			"From": "Siliguri",
+			"College": "KGEC",
+			"Department": "IT",
+			"Dream": "Let me keep that confidential!"
+		},
+		"contact":
+		{
+			"email": "abhrajyoti00@gmail.com",
+			"phone": "8167403249"
+		},		
+		"interest": ["Competitive Programming", " Machine Learning", " Data Science"],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "abhrajyoti00",
+			"linkedIn": "abhrajyoti-kundu-b68112193/",
+			"stopstalk": "abhrajyoti00",
+			"stackOverflow" : "11605411/abhrajyoti-kundu"
+		},
+		"socials":
+		{
+			"facebook": "abhrajyoti.kundu.1023",
+			"instagram": "abhrajyoti00/",
+			"twitter": "abhrajyoti00"
+		}
+	},
+	"user27" :
+	{
+		"username": "Aayush Agarwal",
+		"about":
+		{
+			"username": "Aayush Agarwal",
+			"Name": "Aayush Agarwal",
+			"Age": "18",
+			"From": "Maynaguri",
+			"College": "KGEC",
+			"Department": "IT",
+			"Dream": "To do something big..with designing and coding"
+		},
+		"card": "https://www.jotform.com/pdf-view/11e45a6466",
+		"contact":
+		{
+			"email": "ayush.agarwalmng@gmail.com",
+			"phone": "9679883985"
+		},		
+		"interest": [" Web Development", " Graphic-Design", " Machine Learning", " Neural Networks"],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "KylixMedusa",
+			"linkedIn": "N.A.",
+			"stopstalk": "N.A.",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "people/Aayush-Agarwal/100004764855806",
+			"instagram": "KylixMedusa",
+			"twitter": "Aayush967988"
+		}
+	},
+	"user28" :
+	{
+		"username": "InvincibleTaki",
+		"about":
+		{
+			"username": "InvincibleTaki",
+			"Name": "Manish Pandey",
+			"Age": "20",
+			"From": "Kolkata",
+			"College": "KGEC",
+			"Department": "EE",
+			"Dream": "Shine and take kiddo along with me"
+		},
+		"contact":
+		{
+			"email": "playforpassion2016@gmail.com",
+			"phone": "7890320032"
+		},		
+		"interest": ["Web Development", " App Development", " Machine Learning", " Competitive Programming"],
+		"tech": ["N.A."],
+		"profiles":
+		{
+			"github" : "InvincibleNobita",
+			"linkedIn": "N.A.",
+			"stopstalk": "",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "N.A.",
+			"twitter": "N.A."
+		}
+	}
+}
