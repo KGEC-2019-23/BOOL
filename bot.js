@@ -1,8 +1,11 @@
+
+
 /* ----------------- Importing from JSON ---------------- */
-const { prefix, token, user1, user2, user3, user4, user5, user6, user7, user8, user9, user10, user11, user12, user13, user14, user15, user16, user17, user18, user19, user20, user21, user22, user23, user24, user25, user26, user27, user28, user29} = require('./config.json');
+const { prefix, token, user1, user2, user3, user4, user5, user6, user7, user8, user9, user10, user11, user12, user13, user14, user15, user16, user17, user18, user19, user20, user21, user22, user23, user24, user25, user26, user27, user28, user29, user30, user31, user32} = require('./config.json');
+//var meta = JSON.parse('../config.json')
 
 /* -------------- Array to store all users -------------- */
-const arr = [user1, user2, user3, user4, user5, user6, user7, user8, user9, user10, user11, user12, user13, user14, user15, user16, user17, user18, user19, user20, user21, user22, user23, user24, user25, user26, user27, user28, user29]
+const arr = [user1, user2, user3, user4, user5, user6, user7, user8, user9, user10, user11, user12, user13, user14, user15, user16, user17, user18, user19, user20, user21, user22, user23, user24, user25, user26, user27, user28, user29, user30, user31, user32]
 
 
 // require the discord.js module
@@ -16,7 +19,6 @@ var facebook_url = ''
 var instagram_url = ''
 var twitter_url = ''
 var temp = ''
-var inter = ''
 var mails = ''
 var reg_users = 0
 var unreg = ''
@@ -39,9 +41,6 @@ for (person of arr) {
 
 	if (!(isNotRegistered(person))) {
 		reg_users++
-
-		/* --------------- Store users' interests --------------- */
-		inter += (`${reg_users}. ${person.about.Name}: ${person.interest}\n\n`);
 
 		/* ----------------- Store user mail-ids ---------------- */
 		mails += (`${person.contact.email}\n`);		
@@ -72,6 +71,7 @@ client.on('message', message => {
 	const split = withoutPrefix.split(/ +/);
 	const command = split[0].toLowerCase();
 	const args = split.slice(1);
+	//message.channel.send (args)
 	
 		
 	//Array to store quotes
@@ -209,6 +209,152 @@ client.on('message', message => {
 		return message.channel.send(`User Not Found`);
 	}
 
+	else if (command === 'field') {
+		arr_temp = []
+		if (args.includes("web") || args.includes("Web")) {
+			for (person of arr) {
+				for (domain of person.interest) {
+					if (domain === " Web Development") {
+					arr_temp.push(person.about.Name + "\n")
+					break
+					}
+				}
+			}
+		}
+		else if (args.includes("competitive") || args.includes("Competitive") || args.includes("CP") || args.includes("cp")) {
+			for (person of arr) {
+				for (domain of person.interest) {
+					if (domain === " Competitive Programming") {
+						arr_temp.push(person.about.Name + "\n")
+						break
+					}
+				}
+			}
+		}
+		else if (args.includes("app") || args.includes("App")) {
+			for (person of arr) {
+				for (domain of person.interest) {
+					if (domain === " App Development") {
+						arr_temp.push(person.about.Name + "\n")
+						break
+					}
+				}
+			}
+		}
+		else if (args.includes("Machine") || args.includes("ML") || args.includes("machine") || args.includes("ml")) {
+			for (person of arr) {
+				for (domain of person.interest) {
+					if (domain === " Machine Learning") {
+						arr_temp.push(person.about.Name + "\n")
+						break 
+					}
+				}
+			}
+		}
+		else if (args.includes("data") || args.includes("Data")) {
+			for (person of arr) {
+				for (domain of person.interest) {
+					if (domain === " Data Science") {
+						arr_temp.push(person.about.Name + "\n")
+						break 
+					}
+				}
+			}
+		}
+		else if (args.includes("NLP")) {
+			for (person of arr) {
+				for (domain of person.interest) {
+					if (domain === " NLP") {
+						arr_temp.push(person.about.Name + "\n")
+						break
+					}
+				}
+			}
+		}
+		else if (args.includes("Neural") || args.includes("neural")) {
+			for (person of arr) 
+			for (domain of person.interest) {
+				if (domain === " Neural Networks") {
+					arr_temp.push(person.about.Name + "\n")
+					break
+				}			
+			}
+		}
+		else if (args.includes("IoT") || args.includes("iot") || args.includes("Iot")) {
+			for (person of arr) {
+				for (domain of person.interest) {
+					if (domain === " IoT") {
+						arr_temp.push(person.about.Name + "\n")
+						break 
+					}
+				}
+			}
+		}
+		else if (args.includes("Block") || args.includes("block")) {
+			for (person of arr) {
+				for (domain of person.interest) {
+					if (domain === " Block Chain") {
+						arr_temp.push(person.about.Name + "\n")
+						break 
+					}
+				}
+			}
+		}
+		else if (args.includes("cyber") || args.includes("Cyber")) {
+			for (person of arr) {
+				for (domain of person.interest) {
+					if (domain === " Cyber Security") {
+						arr_temp.push(person.about.Name + "\n")
+						break 
+					}
+				}
+			}
+		}
+		else if (args.includes("graphic") || args.includes("Graphic")) {
+			for (person of arr) {
+				for (domain of person.interest) {
+					if (domain === " Graphic Design") {
+						arr_temp.push(person.about.Name + "\n")
+						break 
+					}
+				}
+			}
+		}
+
+		else if (args.includes("augmented") || args.includes("AR") || args.includes("Augmented") || args.includes("ar")) {
+			for (person of arr) {
+				for (domain of person.interest) {
+					if (domain === " Augmented Reality") {
+						arr_temp.push(person.about.Name + "\n")
+						break 
+					}
+				}
+			}
+		}
+
+		if (arr.length > 0) {
+			message.channel.send(arr)
+		}
+		else {
+			message.channel.send(`No user found interested in this domain.\nRecommend someone through \#chat !`)
+		}
+
+	}	
+
+	else if (command === 'slap') {
+		if (args[0]) {
+			const user = getUserFromMention(args[0]);
+			if (!user) {
+				return message.reply('Please use a proper mention if you want to see someone else\'s developer-profile.');
+			}
+			for (person of arr)
+			if (person.username == user.username)
+			return message.reply(`slapped ${user}`)
+		}
+		return message.channel.send('User not Found');
+	}
+
+
 	/* -------------- Command = access-pass @username ------------- */
 	/* ---------------- Currently Unavailable --------------- */
 	else if (command === 'access-pass') {
@@ -237,9 +383,7 @@ client.on('message', message => {
 	/*                    Shorter Commands                    */
 	/* ------------------------------------------------------ */
 
-	else if (command === 'user-interests') {
-		message.channel.send(`${inter}`);					
-	}
+	
 
 	else if (command === 'users-registered') {
 		message.channel.send(`${registered}`)		
