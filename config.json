@@ -1,7 +1,7 @@
-﻿{
+{
 	"prefix": "b/",
-	"token": "Ask for token from Ayush Singh",
-	"passwords_array": ["please", "dont", "hack", "me"],
+	"token": "Ask Ayush for the token",
+	"passwords_array": [" please", " dont", " hack", " me"],
 	"user1" :
 	{
 		"username": "Dante",
@@ -20,7 +20,7 @@
 			"email": "rajmurmu638@gmail.com",
 			"phone": "7980965323"
 		},		
-		"interest": ["Web Development", " App Development", " Graphic Design", " Machine Learning", " Cyber Security", "IoT", " Augmented Reality"],
+		"interest": [" Web Development", " App Development", " Graphic Design", " Machine Learning", " Cyber Security", " IoT", " Augmented Reality"],
 		"profiles":
 		{
 			"github" : "AnandRajMurmu",
@@ -53,8 +53,8 @@
 			"email": "coding.ayush@gmail.com",
 			"phone": "8902094849"
 		},		
-		"interest": ["Competitive Programming", " Machine Learning", " Neural Networks", " Augmented Reality"],
-		"tech": ["Java", " C\\C++", " Python", " Kotlin", " JavaScript", " HTML5", " CSS", " Git", " Markdown", " Google Cloud", " DialogFlow"],
+		"interest": [" Competitive Programming", " Machine Learning", " Neural Networks", " Augmented Reality"],
+		"tech": [" Java", " C\\C++", " Python", " Kotlin", " JavaScript", " HTML5", " CSS", " Git", " Markdown", " Google Cloud", " DialogFlow"],
 		"profiles":
 		{
 			"github" : "deathaught-github",
@@ -88,7 +88,7 @@
 			"email": "aryanbarnwal007@gmail.com",
 			"phone": "6290779826"
 		},		
-		"interest": ["App Development", " Machine Learning", " Data Science", " Neural Network", " Competitive Programming"],
+		"interest": [" App Development", " Machine Learning", " Data Science", " Neural Networks", " Competitive Programming"],
 		"profiles":
 		{
 			"github" : "Aryan6290",
@@ -121,8 +121,8 @@
 			"email": "mayukh.sen13@gmail.com",
 			"phone": "9330310093"
 		},		
-		"interest": ["Web Development", " Machine Learning", " Competitive Programming", " Google Cloud", " Data Science", " Neural Networks", "IoT"],
-		"tech": ["N.A."],
+		"interest": [" Web Development", " Machine Learning", " Competitive Programming", " Google Cloud", " Data Science", " Neural Networks", " IoT"],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "mayukhsen13",
@@ -156,8 +156,8 @@
 			"email": "aaratishah10@gmail.com",
 			"phone": "9166356094"
 		},		
-		"interest": ["Web Development", " App Development", " Graphic-Design", " Competitive Programming"],
-		"tech": ["N.A."],
+		"interest": [" Web Development", " App Development", " Graphic Design", " Competitive Programming"],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "N.A.",
@@ -179,19 +179,19 @@
 		{
 			"username": "alquama00s",
 			"Name": "Alquama Salim",
-			"Age": "N.A.",
-			"From": "N.A.",
+			"Age": "20",
+			"From": "Kolkata",
 			"College": "KGEC",
-			"Department": "N.A.",
-			"Dream": "N.A."
+			"Department": "CSE",
+			"Dream": "To take all computations to cloud and to blend Cyber Security with ML "
 		},
 		"contact":
 		{
-			"email": "N.A.",
-			"phone": "N.A."
+			"email": "alquama00s@outlook.com",
+			"phone": "9163520855"
 		},		
-		"interest": ["N.A."],
-		"tech": ["N.A."],
+		"interest": [" Web Development", " App Development", " Competitive Programming", " Cyber Security", " Machine Learning", " Data Science", " Neural Networks", " IoT"],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "N.A.",
@@ -225,8 +225,8 @@
 			"email": "mynameiszimy@gmail.com",
 			"phone": "6290814350"
 		},		
-		"interest": ["Web Development", " App Development", " Competitive Programming", " Machine Learning"],
-		"tech": ["N.A."],
+		"interest": [" Web Development", " App Development", " Competitive Programming", " Machine Learning"],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "N.A.",
@@ -259,8 +259,8 @@
 			"email": "N.A.",
 			"phone": "N.A."
 		},		
-		"interest": ["N.A."],
-		"tech": ["N.A."],
+		"interest": [" N.A."],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "N.A.",
@@ -294,8 +294,8 @@
 			"email": "anubhavd666@gmail.com",
 			"phone": "9748959439"
 		},		
-		"interest": ["Web Development", " App Development", " Competitive Programming"," Data Science", " IoT", " Graphic-Design", " Neural Networks", " IoT", " Embedded System"],
-		"tech": ["N.A."],
+		"interest": [" Web Development", " App Development", " Competitive Programming"," Data Science", " IoT", " Graphic Design", " Neural Networks", " IoT", " Embedded System"],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "anubhavd666",
@@ -328,7 +328,7 @@
 			"email": "arkadutta.cg@gmail.com",
 			"phone": "6294861151"
 		},		
-		"interests": [ "Machine Learning"," Data SCience", " App Development", " Neural Networks", "Language Processing", " Cyber security"],
+		"interests": [ "Machine Learning"," Data SCience", " App Development", " Neural Networks", " Language Processing", " Cyber security"],
 		"profiles":
 		{
 			"github" : "N.A.",
@@ -362,8 +362,8 @@
 			"email": "singhayush049@gmail.com",
 			"phone": "8240314814"
 		},		
-		"interest": ["Web Development", " Competitive Programmer", " Machine Learning", " App Development"],
-		"tech": ["N.A."],
+		"interest": [" Web Development", " Competitive Programmer", " Machine Learning", " App Development"],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "N.A.",
@@ -396,8 +396,8 @@
 			"email": "bikram2001jha@gmail.com",
 			"phone": "6290898401"
 		},		
-		"interest": ["Web Development", " App Development", " Competitive Programming", " Machine Learning", " Data Science", " Cybersecurity"],
-		"tech": ["N.A."],
+		"interest": [" Web Development", " App Development", " Competitive Programming", " Machine Learning", " Data Science", " Cyber Security"],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "N.A.",
@@ -430,8 +430,8 @@
 			"email": "moyukh00145@gmail.com",
 			"phone": "8436920854"
 		},		
-		"interest": ["Web Development", " App Development", " Competitive Programming", " Cyber Security", " Machine Learning", " Neural Networks"],
-		"tech": ["N.A."],
+		"interest": [" Web Development", " App Development", " Competitive Programming", " Cyber Security", " Machine Learning", " Neural Networks"],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "moyukh-sarkar-508367191",
@@ -462,11 +462,11 @@
 		"card": "https://www.jotform.com/pdf-view/c96376d9f3",
 		"contact":
 		{
-			"email": "avikboshalsarkar@gmail.com",
+			"email": "avikbishalsarkar@gmail.com",
 			"phone": "7908683953"
 		},		
-		"interest": ["Full Stack", " Web Development", " App Development"],
-		"tech": ["N.A."],
+		"interest": [" Full Stack", " Web Development", " App Development"],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "N.A.",
@@ -499,8 +499,8 @@
 			"email": "N.A.",
 			"phone": "N.A."
 		},		
-		"interest": ["N.A."],
-		"tech": ["N.A."],
+		"interest": [" N.A."],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "N.A.",
@@ -533,8 +533,8 @@
 			"email": "naskar.sourav818@gmail.com",
 			"phone": "9123313814"
 		},		
-		"interest": ["Web Development", " App Development", " Competitive Programming", " Data Science", " Machine Learning", " Cyber Security"],
-		"tech": ["N.A."],
+		"interest": [" Web Development", " App Development", " Competitive Programming", " Data Science", " Machine Learning", " Cyber Security"],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "naskar156",
@@ -568,8 +568,8 @@
 			"email": "debadree333@gmail.com",
 			"phone": "9883362850"
 		},		
-		"interest": ["Web Development", " App Development", "Competitive Programming", " Machine Learning", " Data Science", " Neural Network"],
-		"tech": ["HTML5", "CSS3", "Java", "JavaScript", "C\\C++", "Python", "Dart", "Git"],
+		"interest": [" Web Development", " App Development", " Competitive Programming", " Machine Learning", " Data Science", " Neural Networks"],
+		"tech": [" HTML5", " CSS3", " Java", " JavaScript", " C\\C++", " Python", " Dart", " Git"],
 		"profiles":
 		{
 			"github" : "debadree25",
@@ -595,7 +595,7 @@
 			"From": "Kolkata",
 			"College": "KGEC",
 			"Department": "EE",
-			"Dream": "Mastering at Full Stack Web development and Machine Learning"
+			"Dream": "Mastering at Full StackWeb Development and Machine Learning"
 		},
 		"card": "https://www.jotform.com/pdf-view/6d95983f39",
 		"contact":
@@ -603,8 +603,8 @@
 			"email": "mainaknandi2000@gmail.com",
 			"phone": "8902572861"
 		},		
-		"interest": ["Web Development", " Competitive Programming", " Machine Learning", " Data Science", " Neural Network", " Cyber Security", " Block Chain", " IoT"],
-		"tech": ["N.A."],
+		"interest": [" Web Development", " Competitive Programming", " Machine Learning", " Data Science", " Neural Networks", " Cyber Security", " Block Chain", " IoT"],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "MainakNandi",
@@ -637,8 +637,8 @@
 			"email": "N.A.",
 			"phone": "N.A."
 		},		
-		"interest": ["N.A."],
-		"tech": ["N.A."],
+		"interest": [" N.A."],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "N.A.",
@@ -660,30 +660,30 @@
 		{
 			"username": "Abhinaba Das",
 			"Name": "Abhinaba Das",
-			"Age": "N.A.",
-			"From": "N.A.",
+			"Age": "19",
+			"From": "Dum Dum",
 			"College": "KGEC",
-			"Department": "N.A.",
-			"Dream": "N.A."
+			"Department": "CSE",
+			"Dream": "Job "
 		},
 		"contact":
 		{
-			"email": "N.A.",
-			"phone": "N.A."
+			"email": "abhinaba006@gmail.com",
+			"phone": "8478006638"
 		},		
-		"interest": ["N.A."],
-		"tech": ["N.A."],
+		"interest": [" Machine Learning", " Data Science", " Competitive Programming"],
+		"tech": [" N.A."],
 		"profiles":
 		{
-			"github" : "N.A.",
-			"linkedIn": "N.A.",
-			"stopstalk": "N.A.",
+			"github" : "",
+			"linkedIn": "kanksha-burnwal-938481193",
+			"stopstalk": "",
 			"stackOverflow" : "N.A."
 		},
 		"socials":
 		{
-			"facebook": "N.A.",
-			"instagram": "N.A.",
+			"facebook": "akanksha.burnwal.7",
+			"instagram": "akanksha302000",
 			"twitter": "N.A."
 		}
 	},
@@ -706,8 +706,8 @@
 			"email": "myselfaniksaha@gmail.com",
 			"phone": "7980016667"
 		},		
-		"interest": ["Web Development", " App Development", " Competitive Programming", " Graphic Design", " Machine Learning", " Data Science", " Neural Networks", " IoT"],
-		"tech": ["N.A."],
+		"interest": [" Web Development", " App Development", " Competitive Programming", " Graphic Design", " Machine Learning", " Data Science", " Neural Networks", " IoT"],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "N.A.",
@@ -740,8 +740,8 @@
 			"email": "N.A.",
 			"phone": "N.A."
 		},		
-		"interest": ["N.A."],
-		"tech": ["N.A."],
+		"interest": [" N.A."],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "N.A.",
@@ -774,8 +774,8 @@
 			"email": "N.A.",
 			"phone": "N.A."
 		},		
-		"interest": ["N.A."],
-		"tech": ["N.A."],
+		"interest": [" N.A."],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "N.A.",
@@ -808,8 +808,8 @@
 			"email": "baralabhishek538@gmail.com",
 			"phone": "8250546861"
 		},		
-		"interest": ["Web Development", " Competitive Programming", " Graphic Design", " App Development", " Data Science", " Digital Marketing"],
-		"tech": ["N.A."],
+		"interest": [" Web Development", " Competitive Programming", " Graphic Design", " App Development", " Data Science", " Digital Marketing"],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "baralabhishek1",
@@ -842,8 +842,8 @@
 			"email": "rajonyarajjo@gmail.com",
 			"phone": "8337037360"
 		},		
-		"interest": ["Web Development", " Competitive Programming", " Machine Learning", " App Development"],
-		"tech": ["N.A."],
+		"interest": [" Web Development", " Competitive Programming", " Machine Learning", " App Development"],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "N.A.",
@@ -876,8 +876,8 @@
 			"email": "abhrajyoti00@gmail.com",
 			"phone": "8167403249"
 		},		
-		"interest": ["Competitive Programming", " Machine Learning", " Data Science"],
-		"tech": ["N.A."],
+		"interest": [" Competitive Programming", " Machine Learning", " Data Science"],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "abhrajyoti00",
@@ -911,8 +911,8 @@
 			"email": "ayush.agarwalmng@gmail.com",
 			"phone": "9679883985"
 		},		
-		"interest": [" Web Development", " Graphic-Design", " Machine Learning", " Neural Networks"],
-		"tech": ["N.A."],
+		"interest": [" Web Development", " Graphic Design", " Machine Learning", " Neural Networks"],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "KylixMedusa",
@@ -945,8 +945,8 @@
 			"email": "playforpassion2016@gmail.com",
 			"phone": "7890320032"
 		},		
-		"interest": ["Web Development", " App Development", " Machine Learning", " Competitive Programming"],
-		"tech": ["N.A."],
+		"interest": [" Web Development", " App Development", " Machine Learning", " Competitive Programming"],
+		"tech": [" N.A."],
 		"profiles":
 		{
 			"github" : "InvincibleNobita",
@@ -979,11 +979,11 @@
 			"email": "prithwirajmitra15@gmail.com",
 			"phone": "9330890146"
 		},		
-		"interest": ["Machine Learning", " NLP", " Data Science", " Neural Networks"],
-		"tech": ["N.A."],
+		"interest": [" Machine Learning", " NLP", " Data Science", " Neural Networks"],
+		"tech": [" N.A."],
 		"profiles":
 		{
-			"github" : "InvincibleNobita",
+			"github" : "",
 			"linkedIn": "prithwiraj-mitra-830350192",
 			"stopstalk": "",
 			"stackOverflow" : "N.A."
@@ -994,5 +994,107 @@
 			"instagram": "N.A.",
 			"twitter": "N.A."
 		}
-}
+	},
+	"user30" :
+	{
+		"username": "sayantan1410",
+		"about":
+		{
+			"username": "sayantan1410",
+			"Name": "Sayantan Sadhu",
+			"Age": "19",
+			"From": "Naihati",
+			"College": "KGEC",
+			"Department": "IT",
+			"Dream": "Learning forever without frustation "
+		},
+		"contact":
+		{
+			"email": "sayantan.sadhu1410@gmail.com",
+			"phone": "7003302025"
+		},		
+		"interest": [" Machine Learning", " Data Science", " Neural Networks", " Web Development", " Competitive Programming"],
+		"tech": [" N.A."],
+		"profiles":
+		{
+			"github" : "",
+			"linkedIn": "",
+			"stopstalk": "",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "N.A.",
+			"instagram": "N.A.",
+			"twitter": "N.A."
+		}
+	},
+	"user31" :
+	{
+		"username": "burnwal.akanksha30",
+		"about":
+		{
+			"username": "burnwal.akanksha30",
+			"Name": "Akanksha Burnwal",
+			"Age": "19",
+			"From": "Asansol",
+			"College": "KGEC",
+			"Department": "IT",
+			"Dream": "To become a successful software engineer "
+		},
+		"contact":
+		{
+			"email": "burnwal.akanksha30@gmail.com",
+			"phone": "7891900741"
+		},		
+		"interest": [" Machine Learning", " Web Development", " Competitive Programming", " Graphic Design", " IoT", " App Development"],
+		"tech": [" N.A."],
+		"profiles":
+		{
+			"github" : "",
+			"linkedIn": "kanksha-burnwal-938481193",
+			"stopstalk": "",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "akanksha.burnwal.7",
+			"instagram": "akanksha302000",
+			"twitter": "N.A."
+		}
+	},
+	"user32":
+	{
+		"username": "priyangshu",
+		"about":
+		{
+			"username": "priyangshu",
+			"Name": "Priyangshu Sen",
+			"Age": "N.A.",
+			"From": "Dum Dum",
+			"College": "KGEC",
+			"Department": "CSE",
+			"Dream": "Job "
+		},
+		"contact":
+		{
+			"email": "abhinaba006@gmail.com",
+			"phone": "8478006638"
+		},		
+		"interest": [" Machine Learning", " Data Science", " Competitive Programming"],
+		"tech": [" N.A."],
+		"profiles":
+		{
+			"github" : "",
+			"linkedIn": "kanksha-burnwal-938481193",
+			"stopstalk": "",
+			"stackOverflow" : "N.A."
+		},
+		"socials":
+		{
+			"facebook": "akanksha.burnwal.7",
+			"instagram": "akanksha302000",
+			"twitter": "N.A."
+		}
+	}
 }
